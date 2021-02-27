@@ -4,3 +4,4 @@ This repository is for interesting projects from Codecademy which I performed.
 * physicsfunction.py is an exercise on creating various function in Python.
 * simplemath.py is one of the coding challenge present for advanced functions in Codecademy.
 * slicing.py is a project on lists and different types they can be sliced
+* doubleindex.py is a test where I have doubled the value of the index value
