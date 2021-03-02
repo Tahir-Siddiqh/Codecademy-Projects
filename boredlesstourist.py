@@ -60,5 +60,5 @@ def get_attractions_for_traveler(traveler):
       interests_string += "The "+traveler_attractions[i]+", "
   return interests_string
 
-smills_france = get_attractions_for_traveler(['Tahir Siddiqh', 'Los Angeles, USA', ['art']])
-print(smills_france)
+Tahir_LA = get_attractions_for_traveler(['Tahir Siddiqh', 'Los Angeles, USA', ['art']])
+print(Tahir_LA)
