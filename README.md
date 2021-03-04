@@ -10,3 +10,4 @@ This repository is for interesting projects from Codecademy which I performed.
 * **boredlesstourist.py is a recommendation engine built on interests and places.**
 * lastname.py is learning exercise where I had to store authors last name from the given list.
 * poem.py is review exercise of all the concepts learnt by performing string methods.
+* **threadshed.py is a data analysis project wher I had to clean string of data to give a legible and understandable output to the stake holders.**
