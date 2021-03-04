@@ -9,3 +9,4 @@ This repository is for interesting projects from Codecademy which I performed.
 * samevalues.py is a test on finding out same vales' index when two lists are provided.
 * **boredlesstourist.py is a recommendation engine built on interests and places.**
 * lastname.py is learning exercise where I had to store authors last name from the given list.
+* poem.py is review exercise of all the concepts learnt by performing string methods.
