@@ -12,3 +12,4 @@ This repository is for interesting projects from Codecademy which I performed.
 * poem.py is review exercise of all the concepts learnt by performing string methods.
 * **threadshed.py is a data analysis project wher I had to clean string of data to give a legible and understandable output to the stake holders.**
 * scarbble.py project on dictionary in python where I had to calculate score for players playing scrabble.
+* classesintro.py is a classes introduction project where class for Students and their grade is passed.
