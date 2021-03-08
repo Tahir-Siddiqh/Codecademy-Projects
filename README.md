@@ -14,3 +14,4 @@ This repository is for interesting projects from Codecademy which I performed.
 * scarbble.py project on dictionary in python where I had to calculate score for players playing scrabble.
 * classesintro.py is a classes introduction project where class for Students and their grade is passed.
 * Sortedlist.py is simple review of Inheritence and Polymorphism
+* **restraunt.py is a small project on classes and their uses while programming where they provide us with structure and clarity.**
