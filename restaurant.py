@@ -73,7 +73,7 @@ arepas_place = Franchise("189 Fitzgerald Avenue", arepas_menu)
 
 # Businessess
 business1 = Business("Basta Fazoolin' with my Heart", [flagship_store, new_installment])
-business2 = Business("Take a' Arepa",[arepas_place])
+business2 = Business("Take a' Arepa", [arepas_place])
 
 
 # Tests for all the above code.
