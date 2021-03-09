@@ -15,3 +15,4 @@ This repository is for interesting projects from Codecademy which I performed.
 * classesintro.py is a classes introduction project where class for Students and their grade is passed.
 * Sortedlist.py is simple review of Inheritence and Polymorphism
 * **restraunt.py is a small project on classes and their uses while programming where they provide us with structure and clarity.**
+* frequency.py is an interesting testing problem wher I found frequency of words/objects in a dictionary
