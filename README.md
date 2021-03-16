@@ -19,3 +19,4 @@ This repository is for interesting projects from Codecademy which I performed.
 * Fender.py is a simple fun exercise on file system in python.
 * veneer.py is a project on classes and how to build a functions in python that help make an art-dealer network
 * default.py is a lesson on default returns in python
+* kwargs.py is a lesson on keyword arguments in python
