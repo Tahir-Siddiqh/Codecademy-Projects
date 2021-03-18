@@ -17,7 +17,8 @@ This repository is for interesting projects from Codecademy which I performed.
 * **restraunt.py is a small project on classes and their uses while programming where they provide us with structure and clarity.**
 * frequency.py is an interesting testing problem wher I found frequency of words/objects in a dictionary
 * Fender.py is a simple fun exercise on file system in python.
-* veneer.py is a project on classes and how to build a functions in python that help make an art-dealer network
-* default.py is a lesson on default returns in python
-* kwargs.py is a lesson on keyword arguments in python
-* insurance.py is a simple project on variables to give insurance changes for each variable
+* veneer.py is a project on classes and how to build a functions in python that help make an art-dealer network.
+* default.py is a lesson on default returns in python.
+* kwargs.py is a lesson on keyword arguments in python.
+* insurance.py is a simple project on variables to give insurance changes for each variable.
+* insurancecontrolflow.py is continuation of insurance.py where I added control flow logic to the simple program.
