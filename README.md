@@ -22,3 +22,4 @@ This repository is for interesting projects from Codecademy which I performed.
 * kwargs.py is a lesson on keyword arguments in python.
 * insurance.py is a simple project on variables to give insurance changes for each variable.
 * insurancecontrolflow.py is continuation of insurance.py where I added control flow logic to the simple program.
+* insurancelist.py is a simple code where a list functions have been used.
