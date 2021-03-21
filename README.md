@@ -24,3 +24,4 @@ This repository is for interesting projects from Codecademy which I performed.
 * insurancecontrolflow.py is continuation of insurance.py where I added control flow logic to the simple program.
 * insurancelist.py is a simple code where a list functions have been used.
 * insuranceloop.py is a project on loops for insuranse agency.
+* insurancestring.py simple project on cleaning and dividing strings provided.
