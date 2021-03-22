@@ -25,3 +25,4 @@ This repository is for interesting projects from Codecademy which I performed.
 * insurancelist.py is a simple code where a list functions have been used.
 * insuranceloop.py is a project on loops for insuranse agency.
 * insurancestring.py simple project on cleaning and dividing strings provided.
+* insuranceclass.py is a review project on classes in python
