@@ -27,4 +27,5 @@ This repository consists of interesting projects from Codecademy which I perform
 * insurancestring.py simple project on cleaning and dividing strings provided.
 * insuranceclass.py is a review project on classes in python.
 * Helloworld.java are my first lines of code in Java language.
-* Tree.java is my first simple project where I learn to in Java
+* Tree.java is my first simple project where I learn to in Java.
+* SavingsAccount.java is a project on state and behaviour in Java.
