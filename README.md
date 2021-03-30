@@ -29,3 +29,4 @@ This repository consists of interesting projects from Codecademy which I perform
 * Helloworld.java are my first lines of code in Java language.
 * Tree.java is my first simple project where I learn to in Java.
 * SavingsAccount.java is a project on state and behaviour in Java.
+* Calculator.java is basic calculator made using classes and methods in Java.
