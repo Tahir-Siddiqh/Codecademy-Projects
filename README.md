@@ -31,3 +31,4 @@ This repository consists of interesting projects from Codecademy which I perform
 * SavingsAccount.java is a project on state and behaviour in Java.
 * Calculator.java is basic calculator made using classes and methods in Java.
 * Droid.java is program where I learnt to create classes and call them.
+* CarLoan.java is a program that utilizes conditional statements and control flow.
