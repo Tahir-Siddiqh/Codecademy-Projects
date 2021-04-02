@@ -32,3 +32,4 @@ This repository consists of interesting projects from Codecademy which I perform
 * Calculator.java is basic calculator made using classes and methods in Java.
 * Droid.java is program where I learnt to create classes and call them.
 * CarLoan.java is a program that utilizes conditional statements and control flow.
+* Continents.java is a project built using switch cases to give largest city in a continent.
