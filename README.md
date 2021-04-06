@@ -34,3 +34,4 @@ This repository consists of interesting projects from Codecademy which I perform
 * CarLoan.java is a program that utilizes conditional statements and control flow.
 * Continents.java is a project built using switch cases to give largest city in a continent.
 * Newfeed.java a project on Arrays
+* Playlist.java is a project used to practise ArrayList functions.
