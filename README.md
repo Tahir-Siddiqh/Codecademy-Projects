@@ -37,3 +37,4 @@ This repository consists of interesting projects from Codecademy which I perform
 * Playlist.java is a project used to practise ArrayList functions.
 * FizzBuzz.java is simple task on loops where printing for different divisiblility conditions.
 * PrimeDirective.java can be used to find Prime numbers from given array of integers made using loop concepts and ArrayLists
+* ATM.java is a project to understand static methods after encapsulation lesson.
