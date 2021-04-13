@@ -40,3 +40,4 @@ This repository consists of interesting projects from Codecademy which I perform
 * ATM.java is a project to understand static methods after encapsulation lesson.
 * Language.java is a combination of three java files I created to practise Inheritance and Polymorphism.
 * Student.java is a review exercise on 2D Arrays where initializing and editing using nested loops.
+* LinkedList.py is single Linked List Data Structure made in Python.
