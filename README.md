@@ -13,7 +13,7 @@ This repository consists of interesting projects from Codecademy which I made.
 * **threadshed.py is a data analysis project wher I had to clean string of data to give a legible and understandable output to the stake holders.**
 * scarbble.py project on dictionary in python where I had to calculate score for players playing scrabble.
 * classesintro.py is a classes introduction project where class for Students and their grade is passed.
-* Sortedlist.py is simple review of Inheritence and Polymorphism
+* Sortedlist.py is simple review of Inheritence and Polymorphism.
 * **restraunt.py is a small project on classes and their uses while programming where they provide us with structure and clarity.**
 * frequency.py is an interesting testing problem wher I found frequency of words/objects in a dictionary
 * Fender.py is a simple fun exercise on file system in python.
