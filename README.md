@@ -45,3 +45,4 @@ This repository consists of interesting projects from Codecademy which I made.
 * **ImageProcessing.java is a project on different image manipulation techniques performed using 2D Arrays**
 * restaurant.sqlite is sql project for particing sql find query methods.
 * startup.sqlite sql project on sql aggregate functions.
+* news.sqlite is a sql practise project made using SQL functions
