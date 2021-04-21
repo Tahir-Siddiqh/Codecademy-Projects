@@ -46,4 +46,3 @@ This repository consists of interesting projects from Codecademy which I made.
 * restaurant.sqlite is sql project for particing sql find query methods.
 * startup.sqlite sql project on sql aggregate functions.
 * news.sqlite is a sql practise project made using SQL functions.
-* test.sqlite is test on joins in SQL
