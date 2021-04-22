@@ -33,7 +33,7 @@ This repository consists of interesting projects from Codecademy which I made.
 * Droid.java is program where I learnt to create classes and call them.
 * CarLoan.java is a program that utilizes conditional statements and control flow.
 * Continents.java is a project built using switch cases to give largest city in a continent.
-* Newfeed.java a project on Arrays.
+* Newfeed.java a project on java Arrays.
 * Playlist.java is a project used to practise ArrayList functions.
 * FizzBuzz.java is simple task on loops where printing for different divisiblility conditions.
 * PrimeDirective.java can be used to find Prime numbers from given array of integers made using loop concepts and ArrayLists
@@ -45,4 +45,4 @@ This repository consists of interesting projects from Codecademy which I made.
 * **ImageProcessing.java is a project on different image manipulation techniques performed using 2D Arrays**
 * restaurant.sqlite is sql project for particing sql find query methods.
 * startup.sqlite sql project on sql aggregate functions.
-* news.sqlite is a sql practise project made using SQL functions
+* news.sqlite is a sql practise project made using SQL functions.
