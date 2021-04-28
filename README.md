@@ -9,7 +9,7 @@ This repository consists of interesting projects from Codecademy which I made.
 * samevalues.py is a test on finding out same vales' index when two lists are provided.
 * **boredlesstourist.py is a recommendation engine built on interests and places.**
 * lastname.py is learning exercise where I had to store authors last name from the given list.
-* poem.py is review exercise of all the concepts learnt by performing string methods.
+* poem.py is review exercise of all the concepts learnt by performing string methods. 
 * **threadshed.py is a data analysis project wher I had to clean string of data to give a legible and understandable output to the stake holders.**
 * scarbble.py project on dictionary in python where I had to calculate score for players playing scrabble.
 * classesintro.py is a classes introduction project where class for Students and their grade is passed.
