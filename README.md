@@ -9,23 +9,23 @@ This repository consists of interesting projects from Codecademy which I made.
 * samevalues.py is a test on finding out same vales' index when two lists are provided.
 * **boredlesstourist.py is a recommendation engine built on interests and places.**
 * lastname.py is learning exercise where I had to store authors last name from the given list.
-* poem.py is review exercise of all the concepts learnt by performing string methods. 
+* poem.py is review exercise of all the concepts learnt by performing string methods.
 * **threadshed.py is a data analysis project wher I had to clean string of data to give a legible and understandable output to the stake holders.**
 * scarbble.py project on dictionary in python where I had to calculate score for players playing scrabble.
 * classesintro.py is a classes introduction project where class for Students and their grade is passed.
 * Sortedlist.py is simple review of Inheritence and Polymorphism.
 * **restraunt.py is a small project on classes and their uses while programming where they provide us with structure and clarity.**
-* frequency.py is an interesting testing problem wher I found frequency of words/objects in a dictionary
+* frequency.py is an interesting testing problem wher I found frequency of words/objects in a dictionary.
 * Fender.py is a simple fun exercise on file system in python.
-* veneer.py is a project on classes and how to build a functions in python that help make an art-dealer network.  
+* veneer.py is a project on classes and how to build a functions in python that help make an art-dealer network.
 * default.py is a lesson on default returns in python.
 * kwargs.py is a lesson on keyword arguments in python.
 * insurance.py is a simple project on variables to give insurance changes for each variable.
-* insurancecontrolflow.py is continuation of insurance.py where I added control flow logic to the simple program. 
-* insurancelist.py is a simple code where a list functions have been used.  
-* insuranceloop.py is a project on loops for insurance agency. 
-* insurancestring.py simple project on cleaning and dividing strings provided.     
-* insuranceclass.py is a review project on classes in python.  
+* insurancecontrolflow.py is continuation of insurance.py where I added control flow logic to the simple program.
+* insurancelist.py is a simple code where a list functions have been used.
+* insuranceloop.py is a project on loops for insurance agency.
+* insurancestring.py simple project on cleaning and dividing strings provided.
+* insuranceclass.py is a review project on classes in python.
 * Helloworld.java are my first lines of code in Java language.
 * Tree.java is my first simple project where I learn to in Java.
 * SavingsAccount.java is a project on state and behaviour in Java.
@@ -36,7 +36,7 @@ This repository consists of interesting projects from Codecademy which I made.
 * Newfeed.java a project on java Arrays.
 * Playlist.java is a project used to practise ArrayList functions.
 * FizzBuzz.java is simple task on loops where printing for different divisiblility conditions.
-* PrimeDirective.java can be used to find Prime numbers from given array of integers made using loop concepts and ArrayLists
+* PrimeDirective.java can be used to find Prime numbers from given array of integers made using loop concepts and ArrayLists.
 * ATM.java is a project to understand static methods after encapsulation lesson.
 * Language.java is a combination of three java files I created to practise Inheritance and Polymorphism.
 * Student.java is a review exercise on 2D Arrays where initializing and editing using nested loops.
