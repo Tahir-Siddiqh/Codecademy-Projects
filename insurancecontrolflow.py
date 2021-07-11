@@ -1,4 +1,3 @@
-# Add your code here
 def analyze_smoker(smoker_status):
   if smoker_status == 1:
     print("To lower your cost, you should consider quitting smoking.")
