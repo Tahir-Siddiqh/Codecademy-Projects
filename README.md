@@ -1,5 +1,5 @@
 # Codecademy-Projects
-This repository consists of interesting projects from Codecademy which I made. 
+This repository consists of interesting projects from Codecademy which I made.
 * magic8.py is an exercise on Control flow in Python, I made a simple Magic 8 ball where you provide it with your name and question and you will get a random output.
 * physicsfunction.py is an exercise on creating various function in Python.
 * simplemath.py is one of the coding challenge present for advanced functions in Codecademy.
